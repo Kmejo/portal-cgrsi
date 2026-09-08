@@ -1,0 +1,7 @@
+{
+  "name": "CGR Soluciones Integrales S.U.R.L.",
+  "description": "Portal empresarial industrial con panel administrativo en tiempo real, gestión y publicación de contenidos, respaldos JSON, notificaciones push, almacenamiento y compresión interna de imágenes, integración con GitHub y control de versiones.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
